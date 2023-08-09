@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzariza</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+   <div class="background">
+        <header>
+            <div class="logo">
+                <img src="./img/logo.png" alt="Logo">
+            </div>
+            <ul class="links">
+                <li><a href="#">Sobre nós</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Delivery</a></li>
+            </ul>
+            <div class="C-icone">
+                <spam class="Icone"><ion-icon name="search-outline"></ion-icon></spam>
+                <spam class="Icone"><ion-icon name="cart-outline"></ion-icon>
+                </spam>
+            </div>
+        </header>
+        <hr>
+        <divd class="meio">
+            <div class="title">
+                <h1>"FOME DE PIZZA"</h1>
+                <h1>Algumas coisas nunca mudam</h1>
+            </div>
+            <P>Venha se deliciar com nossas preparações, todos os ingredientes são frescos e devidamente selecionados.</P>
+            <button>FAÇA SEU PEDIDO</button>
+        </div>
+        
+
+    </div> 
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>   
+</body>
+</html>

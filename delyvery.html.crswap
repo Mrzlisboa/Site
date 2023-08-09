@@ -1,0 +1,18 @@
+<link href="style.css" rel="stylesheet" type="text/css">
+<div class="background">
+    <header>
+        <div class="logo">
+            <img src="./img/logo.png" alt="Logo">
+        </div>
+        <div class="bnt2">
+        <ul class="inicio">
+            <li><a href="index.html"><button>Início</button></a></li>
+        </ul>
+        </div>
+    </header>
+    
+    
+    <footer>
+        <p class="esquerda">Criado pela aluna <a href="https://github.com/Mrzlisboa" target="_blank"> Mariza S. Lisboa</a></p>
+        <p class="esquerda"><b>Imagens:</b> Canva, freepik e site oficial da coca-cola.</p>
+    </footer>
